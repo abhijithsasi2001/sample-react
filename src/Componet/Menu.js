@@ -12,7 +12,7 @@ return(
         return(
             
                 <div className="card">
-                <img className="card-img-top" src={element.image} alt="image"></img>
+                <img className="card-img-top" src={element.image} alt="food items"></img>
                 <div className="card-body">
                 <h4 className="card-title">{element.text}</h4>
                 <p className="card-text">Rs.{element.price}</p>
