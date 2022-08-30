@@ -5,7 +5,7 @@ const Navbar=()=>{
     return(
         <>
         <nav className="navbar navbar-expand-lg  fixed-top">
-  <Link className="navbar-brand" to="/"><img src="logo.png"></img></Link>
+  <Link className="navbar-brand" to="/"><img src="logo.png" alt="logo"></img></Link>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
   </button>
