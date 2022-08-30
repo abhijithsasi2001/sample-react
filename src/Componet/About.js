@@ -11,7 +11,7 @@ export default function About
         <p className='p1'>Grill is a Resto-vitabar and Healthy Family contemporary restaurant located in Zhinjillam at Medlpounges in Thiruvalla and Changanacherry route. We offer great food with cosy ambience</p>
      </div>
      <div className='col-6'>
-        <img src='about.jpg'></img>
+        <img src='about.jpg' alt="image"></img>
      </div>
     </div>
     </div>
