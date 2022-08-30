@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 export default function Footer() {
   const {pathname}=useLocation();
-  if(pathname=='/') return null;
+  if(pathname==='/') return null;
   return (
     <div>
         <div className='footer'>
