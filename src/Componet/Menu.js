@@ -4,7 +4,7 @@ import Carddata from "./Carddata";
 import { useState } from "react";
 
 const Menu=()=>{
-    const[data,setData]=useState(Carddata);
+    const[data]=useState(Carddata);
 return(
     <div className="menu">
         <div className="menuList">
