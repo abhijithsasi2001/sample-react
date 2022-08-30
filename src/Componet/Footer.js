@@ -36,12 +36,12 @@ export default function Footer() {
             </div>
             <div className='col-3'> 
             <h1 className='footerh1'>Instagram Feed</h1>
-            <Link to="/menu" className='image' ><img src='meals.jpg' style={{width:'70',height:'50px'}}></img></Link>
-            <Link to="/menu" className='image'><img src='noodles.jpg' style={{width:'70px',height:'50px'}}></img></Link>
-            <Link to="/menu" className='image'><img src='pistha.jpeg' style={{width:'70px',height:'50px'}}></img></Link>
-            <Link to="/menu" className='image'><img src='russian.jpeg' style={{width:'70px',height:'50px'}}></img></Link>
-            <Link to="/menu"className='image' ><img src='dd.jpg' style={{width:'70px',height:'50px'}}></img></Link>
-            <Link to="/menu"className='image' ><img src='burger.webp' style={{width:'70px',height:'50px'}}></img></Link>
+            <Link to="/menu" className='image' ><img src='meals.jpg' alt="image"  style={{width:'70',height:'50px'}}></img></Link>
+            <Link to="/menu" className='image'><img src='noodles.jpg' alt="image" style={{width:'70px',height:'50px'}}></img></Link>
+            <Link to="/menu" className='image'><img src='pistha.jpeg' alt="image" style={{width:'70px',height:'50px'}}></img></Link>
+            <Link to="/menu" className='image'><img src='russian.jpeg' alt="image" style={{width:'70px',height:'50px'}}></img></Link>
+            <Link to="/menu"className='image' ><img src='dd.jpg' alt="image" style={{width:'70px',height:'50px'}}></img></Link>
+            <Link to="/menu"className='image' ><img src='burger.webp' alt="image" style={{width:'70px',height:'50px'}}></img></Link>
             
               
               </div>
